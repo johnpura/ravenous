@@ -1,3 +1,5 @@
+A Yelp-like React web application that calls the Yelp API to obtain reviews about local businesses.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
